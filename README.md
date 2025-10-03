@@ -9,9 +9,9 @@
 ## 🎞️ Overview
 
 This Windows batch script **attempts passwords from a wordlist** to unlock **WinRAR or 7-Zip archives**.  
-It supports both tools and extracts contents into a `cracked` folder if the password is correct.  
+It supports both tools and will unlock the file if the password is correct.  
 
-Designed for **recovering forgotten passwords** and **learning about password security** safely.
+Designed for **recovering forgotten passwords** and **learning about password security**.
 
 ---
 
@@ -21,7 +21,6 @@ Designed for **recovering forgotten passwords** and **learning about password se
 - Allows user to select which tool to use.  
 - Takes custom archive and wordlist paths.  
 - Attempts passwords from the wordlist automatically.  
-- Extracts archive contents into a `cracked` folder upon success.  
 - Provides feedback on attempted passwords and success/failure.  
 - Handles errors like missing archive, wordlist, or tool.  
 
@@ -29,10 +28,9 @@ Designed for **recovering forgotten passwords** and **learning about password se
 
 ## 🪴 Usage
 
-
 1. Download the files included in this repo
-2. Open "ZipUnlocker.bat"
-3. Use "PasswordList.txt" to find the correct password for the file
+2. Open `ZipUnlocker.bat`
+3. Use `PasswordList.txt` to find the correct password for the file
 
 > ⚡ **Tip:** Start with small wordlists for testing before using large ones.
 
