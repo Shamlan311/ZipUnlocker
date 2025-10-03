@@ -30,10 +30,11 @@ Designed for **recovering forgotten passwords** and **learning about password se
 
 1. Download the files included in this repo
 2. Open `ZipUnlocker.bat`
-3. Use `PasswordList.txt` to find the correct password for the file
+3. Use `PasswordList.txt` to find the correct password of the file
 
 ---
 
 > ⚡ **Tip:** Start with small wordlists for testing before using large ones.
 
 ---
+
